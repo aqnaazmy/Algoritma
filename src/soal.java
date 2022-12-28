@@ -16,6 +16,7 @@ public class soal{
                     total=1;
                 }
             }
+
             System.out.println("total:" + total);
         }
     }

@@ -4,23 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a27779d-b0f1-4baa-9239-621217f7fc93" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Algoritma.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArabMart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/inventori.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OOP/inventori2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/arayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/latiansoal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metod/metod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/metod/metod4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/soal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tugas.java" afterDir="false" />
+    <list default="true" id="3a27779d-b0f1-4baa-9239-621217f7fc93" name="Changes" comment="aqna">
+      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/OOP/tuittuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Algoritma.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Algoritma.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArabMart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArabMart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/soal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/soal.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +21,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -51,7 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/aqnaazmy/IdeaProjects/Algoritma&quot;
+    &quot;last_opened_file_path&quot;: &quot;/home/aqnaazmy/IdeaProjects/Plugin&quot;
   }
 }</component>
   <component name="RecentsManager">
@@ -59,10 +51,16 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.latiansoal">
-    <configuration name="arayList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="arayList" />
+  <component name="RunManager" selected="Application.inventori">
+    <configuration name="inventori" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.inventori" />
       <module name="Algoritma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -87,19 +85,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="metod4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="metod.metod4" />
-      <module name="Algoritma" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="metod.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="soal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="soal" />
       <module name="Algoritma" />
@@ -107,13 +92,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="tuittuit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OOP.tuittuit" />
+      <module name="Algoritma" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="OOP.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.latiansoal" />
+        <item itemvalue="Application.inventori" />
+        <item itemvalue="Application.tuittuit" />
         <item itemvalue="Application.soal" />
         <item itemvalue="Application.metod" />
-        <item itemvalue="Application.metod4" />
-        <item itemvalue="Application.arayList" />
+        <item itemvalue="Application.latiansoal" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +124,14 @@
       <option name="presentableId" value="Default" />
       <updated>1669436075864</updated>
     </task>
+    <task id="LOCAL-00001" summary="aqna">
+      <created>1671931983293</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671931983293</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -138,5 +144,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="aqna" />
+    <option name="LAST_COMMIT_MESSAGE" value="aqna" />
   </component>
 </project>
